@@ -1,4 +1,5 @@
 #include <studio.h>
 int main(){
-prntf("Hello World");
+printf("Hello World");
+printf("Fin wsalti blkhdma kif ghadi ");
 return 0 ;}
